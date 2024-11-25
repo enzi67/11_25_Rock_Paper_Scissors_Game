@@ -54,7 +54,7 @@ def jatek():
             break
 
     # vége
-    print(f"Köszönjük a játékot! A végső eredmény: {nyerések} győzelem, {vesztések} vereség, {döntetlenek} döntetlen.")
+    print(f"Köszi, hogy játszottál! Az eredmény: {nyerések} győzelem, {vesztések} vereség, {döntetlenek} döntetlen.")
 
 # játék indítása
 jatek()
